@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootswatch/dist/minty/bootstrap.min.css'; // Added this :boom:
+import 'bootswatch/dist/sketchy/bootstrap.min.css'; // Added this :boom:
 //import './index.css';
 
 
